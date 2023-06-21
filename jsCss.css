@@ -1,0 +1,28 @@
+#changeMe {
+    width: 100%;
+    height: 400px;
+    margin: 20px auto;
+    background: red;
+
+}
+body {
+    text-align: center;
+    font-family: Verdana;
+
+}
+button {
+    width: 100px;
+    height: 30px;
+    background: gold;
+    font-family: Verdana;
+}
+.p {
+    position: relative; 
+    z-index: 0;
+    text-align: center;
+    display: inline-block;
+    top: 170px;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(230, 239, 154)
+}
